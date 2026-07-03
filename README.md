@@ -1,3 +1,4 @@
+
 # Speedy Cash Loan
 
 Marketing website for Speedy Cash Loan, a licensed lead generation company for financial services.
